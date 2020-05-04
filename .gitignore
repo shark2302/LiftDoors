@@ -1,0 +1,9 @@
+Library/
+Temp/
+obj/
+Logs/
+*/.idea/
+/.idea
+Assembly-CSharp.csproj
+Lift.sln
+Assembly-CSharp-Editor.csproj
